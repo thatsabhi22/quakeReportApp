@@ -1,2 +1,2 @@
-# quakeReportApp
+# EarthQuake Report App
 Udacity
